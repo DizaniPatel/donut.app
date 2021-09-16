@@ -1,0 +1,168 @@
+.body2 {
+    background: #fff7ef;
+}
+
+.label {
+    font-size: 14px;
+    color: #6f5e4f;
+    font-family: "abc", sans-serif;
+    line-height: 1.14;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+.h1 {
+    font-family: "gtmr", sans-serif;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 1.12;
+    letter-spacing: -2px;
+}
+
+p {
+    color: #000;
+    text-align: center;
+}
+
+b {
+    font-weight: bold;
+}
+
+.p4 {
+    color: #6f5e4f;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 5px 0;
+}
+
+.section-testimonials .grid-item {
+    padding: 32px;
+    height: 100%;
+    background: #fff;
+    border-radius: 20px;
+    transition: 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tal {
+    text-align: left;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-testimonials .grid-item .star-rating {
+    margin: 48px 0 32px;
+}
+
+.h4 {
+    font-family: "abc", sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.p1 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.p2 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.row {
+    padding-bottom: 40px;
+}
+
+.quotation {
+    color: crimson;
+}
+
+.h1 {
+    font-family: "gtmr", sans-serif;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 1.12;
+    letter-spacing: -2px;
+}
+
+.bluebackground {
+    background: rgb(230, 232, 250);
+}
+
+.linkbackground {
+    color: rgb(109, 116, 174);
+}
+
+a {
+    text-decoration: none;
+}
+
+.padding {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.blue {
+    background: rgb(255, 247, 239);
+    padding-top: 30px;
+}
+
+.card-item[data-v-7971e5e5] {
+    position: relative;
+}
+
+.card-item:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.card-item:hover {
+    box-shadow: 0 0 20px rgb(80 75 74 / 10%);
+}
+
+.card-item {
+    min-height: 290px;
+    flex-basis: 1 0 0;
+    overflow: hidden;
+    padding: 24px 32px;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.flex-aic {
+    align-items: center;
+}
+
+.orange {
+    background: rgb(255, 216, 169);
+}
+
+.card-item img {
+    width: auto;
+    max-width: 300px;
+    bottom: -6%;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.style {
+    visibility: visible;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.6s cubic-bezier(0.5, 0, 0, 1) 0s;
+}

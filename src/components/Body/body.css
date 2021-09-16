@@ -1,0 +1,79 @@
+.body {
+    background-color: rgba(240, 230, 220, 0.932);
+}
+
+.h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.img {
+    text-align: center;
+}
+
+.h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.div {
+    text-align: center;
+}
+
+.divbtn {
+    align-items: center;
+}
+
+.button {
+    align-items: center;
+    border-color: #ffeddc;
+    background: #ffeddc;
+    color: darkorange;
+    font-size: 24px;
+}
+
+.a {
+    margin-bottom: 100px;
+}
+
+.link[data-style="CTA - Arrow"] {
+    margin-top: 12px;
+    color: #ffa451;
+    border-color: #ffeddc;
+    background: #ffeddc;
+}
+
+.link[data-style="CTA - Arrow"] {
+    min-width: -webkit-fit-content;
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    padding: 12px 23px 15px;
+    border-radius: 10px;
+    font-family: "gtmr", sans-serif;
+    font-weight: 500;
+    line-height: 1;
+    font-size: 17px;
+    margin-bottom: 0 !important;
+}
+
+.link {
+    font-size: 15px;
+    line-height: 21px;
+    display: inline-block;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.17s ease-in-out;
+}
+
+.tac {
+    text-align: center;
+}

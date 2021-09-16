@@ -1,0 +1,20 @@
+.font {
+    color: #62605d;
+    font-size: 20px;
+    margin: 2em 0;
+    white-space: pre-wrap;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.h1 {
+    font-family: "gtmr", sans-serif;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 1.12;
+    letter-spacing: -2px;
+}
+
+.align-top {
+    padding-top: 50px;
+}
