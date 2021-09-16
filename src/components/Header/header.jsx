@@ -26,7 +26,7 @@ class Header extends Component {
             <Nav.Link href="">How it works</Nav.Link>
             <Nav.Link href="">DeFi 101</Nav.Link>
             <Nav.Link href="">About</Nav.Link>
-            <Nav.Link href="">Blog</Nav.Link>
+            <Nav.Link href="">Blogs</Nav.Link>
           </Nav>
           <Nav>
             <div>
